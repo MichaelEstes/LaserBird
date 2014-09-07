@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7772fed36a57dd9448b2ab230f93c28e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - laserAnimator: {instanceID: 0}
+  - laserCollider: {instanceID: 0}
+  - rightWall: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
